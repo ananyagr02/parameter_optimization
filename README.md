@@ -15,7 +15,7 @@ This project focuses on optimizing a Support Vector Machine (SVM) classifier for
 ## ⚙️ Project Objective
 
 - Split the dataset 10 times into **70% training** and **30% testing** randomly.
-- Optimize SVM hyperparameters using **100 iterations** for each sample.
+- Optimize SVM hyperparameters using **10 iterations** for each sample.
 - Track and compare the **best accuracy and parameters** for each sample.
 - Plot the **convergence graph** (accuracy vs. iterations) for the best-performing sample.
 
